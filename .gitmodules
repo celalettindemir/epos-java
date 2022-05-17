@@ -1,0 +1,6 @@
+[submodule "epos-api-java"]
+	path = epos-api-java
+	url = https://github.com/celalettindemir/epos-api-java
+[submodule "epos-desktop-java"]
+	path = epos-desktop-java
+	url = https://github.com/celalettindemir/epos-desktop-java.git
